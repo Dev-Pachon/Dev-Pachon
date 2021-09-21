@@ -17,8 +17,8 @@
 <p align="center">
   <em>
     Hello, I am Diego a <b>fifth semester</b> undergraduate from <a href="https://www.icesi.edu.co/es/"> <b>University Of Icesi</b></a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Systems Engineering Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>focused</b>
-    with <b>improve</b> and try to be better than yesterday! 
+    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Systems Engineering Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>focused</b>
+    on <b>improve</b> and be better than yesterday! 
   </em> 
   <br>
 	<br>
@@ -33,14 +33,14 @@
 
 ♦ Callme: ***He/His*** or ***TeamWorker***<br>
 <!--
-♦ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
+♦ I’m currently Developing a Calculator with some stages of upgrade<br>
 -->
 ♦ I’m currently learning about **Web Development**<br>
 ♦ I’m looking to collaborate with any **project**<br>
 ♦ Ask from me anything you want, If I am alive I will answer u<br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools:***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My tools:***
 <p align="left">
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
