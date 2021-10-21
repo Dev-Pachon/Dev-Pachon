@@ -16,8 +16,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Diego a <b>fifth semester</b> undergraduate from <a href="https://www.icesi.edu.co/es/"> <b>University Of Icesi</b></a>. <br>
-    <b>A passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Systems Engineering Student</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>focused</b>
+    Hello, I am Diego a <b>fifth semester</b> undergraduate from <a href="https://www.icesi.edu.co/es/"> <b>ICESI University</b></a>. <br>
+    <b>A passionate self-learner</b> and a <b>Systems Engineering Student</b>&nbsp;,<br>who is <b>focused</b>
     on <b>improve</b> and be better than yesterday! 
   </em> 
   <br>
@@ -50,8 +50,10 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  </p>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Pachon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Dev-Pachon&show_icons=true&locale=en&theme=chartreuse-dark" width="410" /></p>
