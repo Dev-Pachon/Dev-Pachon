@@ -65,4 +65,7 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Dev-Pachon&theme=juicyfresh&no-bg=true" />
+</div>	
+
