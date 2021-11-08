@@ -3,7 +3,7 @@
 </p>
 <br>
 
- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev-Pachon&style=flat-square"/>
   <img src="https://img.shields.io/badge/Age-20-green"/>
   <img src="https://img.shields.io/badge/Focus-Learning-green"/>
@@ -12,7 +12,6 @@
 <hr>
 <h1 align="center">Hi there, I am Diego Alejandro Hernández Pachón</h1>
 <h3 align="center">Systems Engineering Student | Life Student</h3>
-</p>
 
 <p align="center">
   <em>
@@ -41,17 +40,20 @@
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My tools:***
-<p align="left">
+<div align="center">
   
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
-  </p>
-  <p align="center">
+  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> </code></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"> </code>
+
+  </div>
+  <p align="left">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
  
