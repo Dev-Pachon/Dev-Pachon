@@ -15,7 +15,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Diego a <b>fifth semester</b> undergraduate from <a href="https://www.icesi.edu.co/es/"> <b>ICESI University</b></a>. <br>
+    Hello, I am Diego an undergraduate student from <a href="https://www.icesi.edu.co/es/"> <b>ICESI University</b></a>. <br>
     <b>A passionate self-learner</b> and a <b>Systems Engineering Student</b>&nbsp;,<br>who is <b>focused</b>
     on <b>improve</b> and be better than yesterday! 
   </em> 
