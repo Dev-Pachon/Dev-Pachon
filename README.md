@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.wallpapersden.com/image/download/lone-samurai_bGdqZmqUmZqaraWkpJRobWllrWdpZWU.jpg" height="200"/>
+  <img src="https://images.wallpapersden.com/image/download/lone-samurai_bGdqZmqUmZqaraWkpJRobWllrWdpZWU.jpg" height="250"/>
 </p>
 <br>
 
@@ -28,7 +28,7 @@
 <br><br>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me:***
+♣ ***About me:***
 
 ♦ Callme: ***He/His*** or ***TeamWorker***<br>
 <!--
@@ -39,22 +39,23 @@
 ♦ Ask from me anything you want, If I am alive I will answer u<br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My tools:***
+♣ ***My tools:***
 <div align="center">
   
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"> </code></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"> </code>
+  <img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg">&nbsp;
+  <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 
   </div>
   <p align="left">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-Pachon&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark"/></p>
