@@ -16,7 +16,7 @@
 <p align="center">
   <em>
     Hello, I am Diego an undergraduate student from <a href="https://www.icesi.edu.co/es/"> <b>ICESI University</b></a>. <br>
-    <b>A passionate self-learner</b> and a <b>Systems Engineering Student</b>&nbsp;,<br>who is <b>focused</b>
+    <b>A passionate self-learner</b> and a <b>Software Systems Engineering Student</b>&nbsp;,<br>who is <b>focused</b>
     on <b>improve</b> and be better than yesterday! 
   </em> 
   <br>
@@ -32,7 +32,7 @@
 
 ♦ Callme: ***He/His*** or ***TeamWorker***<br>
 <!--
-♦ I’m currently Developing a Calculator with some stages of upgrade<br>
+♦ I’m currently Developing two web applications for E-commerce<br>
 -->
 ♦ I’m currently learning about **Web Development**<br>
 ♦ I’m looking to collaborate with any **project**<br>
@@ -52,6 +52,7 @@
   <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">&nbsp;
   <img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg">&nbsp;
   <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+  <img height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 
   </div>
   <p align="left">
