@@ -11,7 +11,7 @@
 </p>
 <hr>
 <h1 align="center">Hi there, I am Diego Alejandro Hernández Pachón</h1>
-<h3 align="center">Systems Engineering Student | Life Student</h3>
+<h3 align="center">Software Systems Engineering Student | Life Student</h3>
 
 <p align="center">
   <em>
