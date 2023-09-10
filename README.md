@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dev-Pachon&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Age-21-green"/>
+  <img src="https://img.shields.io/badge/Age-22-green"/>
   <img src="https://img.shields.io/badge/Focus-Learning-green"/>
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-green"/>
 </p>
