@@ -34,7 +34,7 @@
 <!--
 ♦ I’m currently Developing two web applications for E-commerce<br>
 -->
-♦ I’m currently learning about **Web Development**<br>
+♦ I’m currently learning about **Quantum Computing**<br>
 ♦ I’m looking to collaborate with any **project**<br>
 ♦ Ask from me anything you want, If I am alive I will answer u<br>
  
